@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: black;
+}
+.list{
+    position: relative;
+    background: white;
+    width: 350px;
+}
+.list h2{ 
+    background:turquoise;
+    color: white;
+    padding: 12px 115px;
+    font-weight: 600;
+
+}
+.list ul{
+    position: relative;
+    padding: 20px;
+}
+.list ul li{
+ position: relative;
+ list-style: none;
+ padding: 15px 0;
+ border-bottom: 1px solid rgb(228, 225, 225)  
+}
+.list ul li :last-child {
+  border-bottom: none;
+}
+.list ul li label {
+ position: relative;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ cursor: pointer;
+}
+
+.list ul li lable span{
+    position: relative;
+    width: 30px;
+    height: 40px;
+    border: 1px solid white;
+}

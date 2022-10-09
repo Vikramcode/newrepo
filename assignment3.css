@@ -1,0 +1,102 @@
+.heading{ 
+    text-align:center;
+     background-color: skyblue; 
+     color: white;
+
+}
+.heading h1{
+    font-size: 45px;
+    /* font-style: sans-serif ; */
+    margin: 0px; 
+    padding: 25px;
+
+}
+#image1stline{
+    margin: auto;
+    width: 640px;
+}
+#image2ndline{
+    margin-left: 28rem;
+}
+#image3rdline{
+    margin-left: 28rem;  
+}
+#one{
+    border: 1px solid #ddd;
+    border-color: skyblue;
+    border-width: 3mm;
+    margin-right: 35px;
+    width: 150px;
+}
+#two{
+    border: 1px solid;
+    border-color: skyblue;
+    border-style:dashed ;
+    border-width: 3mm;
+    margin-right: 35px;
+    width: 150px;
+}
+#three{
+    border: 1px solid skyblue;
+    border-width: 3mm;
+    border-style:dotted ;
+    width: 150px;
+}
+#four{
+    align-items: ;
+    border: 1px solid skyblue;
+    border-width: 3mm;
+    border-style:groove ;
+    margin-right: 35px;
+    width: 150px;
+}
+#five{
+    border: 1px solid skyblue;
+    border-style:groove ;
+    border-width: 3mm;
+    width: 150px;
+}
+#six{
+    border: 1px solid skyblue;
+    border-width: 3mm;
+    border-style:double ;
+    width: 150px;
+    margin-right: 35px;
+}
+#seven{
+    border: 1px solid white;
+    border-width: 3mm;
+    width: 150px;
+}
+.para{
+ color: white;
+ background-color: skyblue;
+ padding: 20px;
+ padding-top: 3mm;
+ width: 60%;
+ border-style: groove solid;
+ border-width: 15px;
+ border-right-color: hotpink;
+ border-top-color: green;
+ border-bottom-color: blue;
+ border-left-color: red;
+ margin: auto;
+ 
+}
+.anchor{
+    text-align: center;
+    background-color: skyblue;
+    padding: 20px;
+
+}
+.anchor a{
+    color: white;
+    text-decoration: none;
+    /* padding: 20px; */
+    font-size: 20px;
+    font-weight: bold;
+}
+
+a:hover{
+    color: blue;
+}
