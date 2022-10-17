@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.header{
+    background-color: #c15355 ;
+    height: 9vh;
+    color: white;
+    font-size: 30px ;
+    /* position:fixed; */
+    display: flex;
+    justify-content:space-between;
+}
+h1{
+ padding: 1%;
+ padding-left: 80px;
+ font-size: 30px;
+}
+.nav {
+    margin-right: 70px;
+    margin-top: 20px;
+    word-spacing: 10px;
+    /* margin-left: 20px; */
+    
+}
+.nav a{
+    color: white;
+    text-decoration: none;
+    font-size:large;
+    font-weight: bold;
+    
+}
+
+.sec{
+    height: 25vh;
+    background-color: #c15355;
+    color: #fff;
+    text-align: center;
+    padding: 90px;
+    font-size: 26px;
+
+}
+.sec p{
+    font-size: 20px;
+}
+.third{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px ;
+    margin-bottom: 50px;
+
+}
+.third h6{
+    font-size: 18px;
+    color: red;
+
+}
+.third p{
+    font-size: 12px;
+}
+.fi{
+    height: 27vh;
+    width: 20vw;
+    margin-right: 40px;
+    margin-left: 50px;
+}
+.se{
+    height: 27vh;
+    width: 20vw;
+    margin-right: 40px;
+    margin-left: 50px;
+}
+.th{
+    height: 27vh;
+    width: 20vw;
+    margin-right: 40px;
+    margin-left: 50px;
+
+}
+.third input{
+    color: #fff;
+    background-color: #c15355;
+    border-style: none;
+    padding: 8px;
+    margin-top: 10px;
+}
+.paragraph{
+    text-align: center;
+    padding:10px;
+    background-color: #c15355;
+    color:#fff;
+}
+
+.pics{
+    height: 60vh;
+    justify-content: center;
+    display:flex;
+    flex-wrap: nowrap;
+    background-color: #c15355;
+}
+.pics section{
+    color: #fff;
+    text-align: center;
+}
+.para{
+    color:#fff;
+    text-align: center;
+
+}
+.pics h3{
+    color: #fff;
+    text-align: center;
+}
+.one{
+    border:1px solid #fff;
+    margin:2rem;
+    height: 35vh;
+    width: 25vh;
+
+}
+.one img{
+    border-radius: 50%;
+    padding: 20px;
+}
+.one p{
+    text-align: center;
+    color: #fff;
+}
+.two{
+    border:1px solid #fff;
+    margin:2rem;
+    height: 35vh;
+    width: 25vh;
+}
+.two p{
+    text-align: center;
+    color: #fff; 
+}
+.two img{
+    border-radius: 50%;
+    padding:20px;
+}
+.three{
+    border :1px solid #fff;
+    margin:2rem;
+    height: 35vh;
+    width: 25vh;
+}
+.three img{
+    border-radius: 50%;
+    padding:20px;
+}
+.three p{
+    text-align: center;
+    color: #fff;
+}
+.four{
+    border:1px solid #fff;
+    margin:2rem;
+    height: 35vh;
+    width: 25vh;
+}
+.four p{
+    text-align: center;
+    color: #fff;
+}
+.four img{
+    border-radius: 50%;
+    padding:20px;
+    
+}
