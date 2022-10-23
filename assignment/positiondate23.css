@@ -1,0 +1,223 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header {
+  background-color: rgb(119, 204, 185);
+  height: 80px;
+  display: flex;
+  color: white;
+  justify-content: space-between;
+
+}
+ .left{
+    margin-left: 30px;
+    padding-top: 20px;
+}
+.right{
+    margin-top: 20px;
+    margin-right: 20px;
+    /* padding: 10px; */
+}
+.right button{
+  padding: 5px 15px; /helght width/
+
+}
+.mid{
+    margin-top: 20px;
+    
+    
+}
+.mid a{
+    padding: 5px;
+    font-size: large;
+    color: rgb(206, 95, 95);
+    text-decoration: none;
+    font-weight: bolder;
+
+
+}
+
+.mid .first{
+    color: white;
+    
+    text-decoration: solid underline rgb(214, 66, 66) 4px;
+
+    
+}
+/* first block */
+.first-part{
+    height: 80%;
+    background-color:rgb(211, 201, 201);
+    
+    
+}
+.second-part{
+    background-color: rgb(241, 229, 231);
+    height: 120%;
+}
+.first-block{
+    display: flex;
+    padding-top: 120px;
+margin-left: 30px;
+}
+.first-blocks{
+    height: 300px;
+    width: 400px;
+    margin: 20px;
+    border:  solid 3px red;
+    
+    
+    /* display: block; */
+    
+
+}
+.small-twoo{
+    height: 70px;
+    width: 70px;
+    border:  solid 2px green;
+    margin-top: 5%;
+    margin-left: 40%;
+    /* color: yellow; */
+  
+}
+.small-twooo{
+    height: 70px;
+    width: 70px;
+    border:  solid 2px green;
+    margin-top: 3%;
+    margin-left: 4%;
+
+}
+
+.small-one{
+    height: 70px;
+    width: 70px;
+    border:  solid 2px green;
+    margin-top: 3%;
+
+    margin-left: 40%;
+}
+.small-two{
+    height: 70px;
+    width: 70px;
+    border:  solid 2px green;
+    margin-top: 5%;
+
+    margin-left: 40%;
+}
+.small-three{
+    height: 70px;
+    width: 70px;
+    border:  solid 2px green;
+    margin-top: 5%;
+    margin-left: 40%;
+}
+
+.second-blocks{
+    height: 300px;
+    width: 400px;
+   margin: 20px;
+    border:  solid 3px red;
+
+}
+.third-blocks{
+    height: 300px;
+    width: 400px;
+   margin: 20px;
+    border:  solid 3px red;
+    display: block;
+
+}
+.fourth-blocks{
+    height: 300px;
+    width: 400px;
+    border: solid red 3px;
+
+}
+.last-part{
+    height:280%;
+    background-color: rgb(197, 181, 181);
+}
+.first-row{
+    display: flex;
+    margin: 50px;
+    margin-bottom: 0px;
+}
+.first-box{
+    
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    margin: 10px;
+    border: solid 2px green;
+}
+.second-row{
+    display: flex;
+    margin: 50px;
+    margin-top: 0;
+}
+.third-row{
+    display: flex;
+    /* margin: 60px; */
+    margin-left: 130px;
+    margin-top: -50px;
+}
+hr{
+    width: 80%;
+    margin-left: 100px;
+    margin-top: 10px;
+    
+    line-height: 3%;
+}
+.fourth-row{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.first-box1{
+    height: 130px;
+    width: 400px;
+   border: solid 2px green; 
+   margin-top: 2px; 
+}
+.five-row{
+    display: flex;
+    margin: 50px;
+    margin-left: 100px;
+    padding: 15px;
+}
+.last{
+    height: 5%;
+    background-color:rgb(32, 155, 114);
+    text-align: center;
+    /* margin: 520%;     */
+}
+.last a{
+    color: white;
+    margin: 3%;
+    /* margin-top: 3%; */
+    
+    /* margin-top: 10px; */
+    /* padding-top: 5px; */
+}
+.top-row {
+
+    margin-top: 5%;
+    margin-left: 40%;
+    
+}
+.last-part .last-heading {
+   /* padding: 3%; */
+   padding-top: 5%;
+   padding-left: 40%;
+    ;
+}
+.first-part .top-heading{
+    /* padding-top: 5%; */
+    padding-left: 40%;
+   
+}
+.mid-heading{
+    padding-left: 40%;
+}
